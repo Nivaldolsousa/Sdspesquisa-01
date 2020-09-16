@@ -63,7 +63,7 @@ public class Record implements Serializable  {
 		return age;
 	}
 
-	public void setIdade(Integer age) {
+	public void setAge(Integer age) {
 		this.age = age;
 	}
 
